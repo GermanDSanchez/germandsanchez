@@ -1,4 +1,4 @@
-<h3 align="left">Frontend Developer from Argentina</h3>
+<h3 align="left">Desarrollador Frontend de Argentina</h3>
 
 <h3 align="left">Portafolio: https://germansanchez.netlify.app</h3>
 
