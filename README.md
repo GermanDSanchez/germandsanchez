@@ -1,4 +1,4 @@
-<h3 align="center">Frontend Developer from Argentina</h3>
+<h3 align="left">Frontend Developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
 
