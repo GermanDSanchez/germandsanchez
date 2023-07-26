@@ -5,7 +5,7 @@
 <h3 align="left">Contactame:</h3>
 
 <p align="left">
-    https://linkedin.com/in/germandsanchez
+    LinkedIn: https://linkedin.com/in/germandsanchez
 </p>
 <p align="left">
     Email: germansr02@gmail.com
