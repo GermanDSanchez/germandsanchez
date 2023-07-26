@@ -1,14 +1,19 @@
 <h3 align="left">Frontend Developer from Argentina</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Portafolio: https://germansanchez.netlify.app</h3>
+
+<h3 align="left">Contactame:</h3>
 
 <p align="left">
     <a href="https://linkedin.com/in/germandsanchez" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="germandsanchez" height="30" width="40" />
     </a>
 </p>
+<p align="left">
+    Email: germansr02@gmail.com
+</p>
 
-<h3 align="left">TECNOLOGIAS</h3>
+<h3 align="left">Tecnologias</h3>
 
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
