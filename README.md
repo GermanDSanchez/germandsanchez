@@ -13,7 +13,7 @@
 
 <h3 align="left">Tecnologias</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind" />
   </a>
